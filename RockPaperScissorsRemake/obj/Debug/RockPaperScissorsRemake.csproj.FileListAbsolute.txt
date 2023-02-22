@@ -1,0 +1,8 @@
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\bin\Debug\RockPaperScissorsRemake.exe.config
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\bin\Debug\RockPaperScissorsRemake.exe
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\bin\Debug\RockPaperScissorsRemake.pdb
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\obj\Debug\RockPaperScissorsRemake.csproj.AssemblyReference.cache
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\obj\Debug\RockPaperScissorsRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\obj\Debug\RockPaperScissorsRemake.csproj.CoreCompileInputs.cache
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\obj\Debug\RockPaperScissorsRemake.exe
+C:\Users\rshou\Documents\Snoopy\Programming\C# projects\RockPaperScissorsRemake\RockPaperScissorsRemake\obj\Debug\RockPaperScissorsRemake.pdb
